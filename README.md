@@ -1,2 +1,1 @@
-# boot-camp-19-pwa-text-editor
- 
+# Boot Camp - Module 19 - Progressive Web Applications (PWA) Challenge - Text Editor
