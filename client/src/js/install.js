@@ -3,6 +3,7 @@ const butInstall = document.getElementById('buttonInstall');
 // Logic for installing the PWA
 // Add an event handler to the `beforeinstallprompt` event
 window.addEventListener('beforeinstallprompt', (event) => {
+  event.preventDefault();
   // Store the triggered events
   window.deferredPrompt = event;
   // Remove the hidden class from the button.
