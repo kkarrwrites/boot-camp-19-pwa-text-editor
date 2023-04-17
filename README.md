@@ -18,4 +18,4 @@ This project is licensed under the MIT License.
 
 ## Resources
 
-[ Heroku Deployment Guide on Request-Response The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide)
+- [Heroku Deployment Guide on Request-Response The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide)
